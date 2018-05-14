@@ -8,7 +8,7 @@ Atrial fibrillation (AF) is a common heart rhythm disorder, affecting more than 
 #### Files in the project package ####
 The project package contains the following files:
 
-* CNNforECGclassification_report.ipynb: this report in notebook format
+* physionet_readme.ipynb: this README.md file with working code
 * CNNforECGclassification_model.ipynb: complete model which runs with the small data set
 * physio_small.h5: small version of the dataset with 500 samples to run the model notebook
 * REFERENCE-v3.csv: labels
